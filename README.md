@@ -5,7 +5,7 @@ Include para sistema de admin com salvamento em SQLite
 a_samp.inc, a_sampdb.inc, foreach.inc, strlib.inc
 
 ## Funções
-[cpp]
+```cpp
 native STAFF_Init();
 native GetAllStaffList();
 native GetConnectedStaffList();
@@ -15,4 +15,4 @@ native SetPlayerStaffLevel(playerid, level);
 native GetPlayerStaffLevel(playerid);
 native TogglePlayerStaffMode(playerid);
 native GetPlayerStaffMode(playerid);
-[/cpp]
+```

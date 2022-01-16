@@ -16,3 +16,4 @@ native GetPlayerStaffLevel(playerid);
 native TogglePlayerStaffMode(playerid);
 native GetPlayerStaffMode(playerid);
 ```
+**Saiba mais usando esse [exemplo](https://github.com/Player-Name/Staff-Include/blob/main/new.pwn)!**
